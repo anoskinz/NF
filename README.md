@@ -12,12 +12,6 @@ NFlix is a video streaming platform that showcases video content from various th
 Clean and straightforward design - focused solely on the content you want.
 Responsive for both mobile and web.
 Built with React, Vite, and SCSS for a modern and responsive user interface.
-
-# 🌿 Philosophy
-
-NFlix is designed to be straightforward and user-centric. We focus on providing essential features that are polished to perfection.
-Our goal is to create a lightweight streaming platform that prioritizes simplicity and usability.
-
 All content is sourced from third-party providers, with client-side scraping ensuring that no media files are stored on our servers. Videos are streamed directly from the original sources.
 
 # 🚧 Limitations
